@@ -2,4 +2,4 @@
 Репозиторий тренинга "Developing ASP.NET MVC web applications" (весна 2018)
 
 # Дополнительная информация
-[EPAM RD .NET Lab](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)
+**[EPAM RD Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" Repository (C# and .NET Framework Basics part) by .NET Lab.](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
