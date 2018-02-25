@@ -1,7 +1,13 @@
 # Training.-Spring-2018
 Репозиторий тренинга "Developing ASP.NET MVC web applications" (весна 2018)
 
-# Дополнительная информация
+## Место проведения занятий - Купревича 1-5,  комната 224.
+## Дни и время проведения занятий
+- Понедельник 8.30 - 12.00
+- Вторник 8.30 - 12.00
+- Пятница 8.30 - 12.00
+
+## Дополнительная информация
 **[EPAM RD Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" Repository (C# and .NET Framework Basics part) by .NET Lab.](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
 
 - *Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего gmail-acc (названного по шаблону firstname.lastname@gmail.com) и github-acc.*
