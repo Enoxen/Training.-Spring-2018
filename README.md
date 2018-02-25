@@ -12,6 +12,7 @@
 
 - *Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего gmail-acc (названного по шаблону firstname.lastname@gmail.com) и github-acc.*
 - *Установить IDE Visual Studio Community 2017 (**англоязычную версию**).*
+- *Установить [StyleCop]()*
 - *Установить [LINQPad](http://www.linqpad.net/)*
 
 ### Требования к выполнению заданий.
