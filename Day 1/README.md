@@ -9,5 +9,5 @@
 - Ознакомиться с [Coding Standards for .NET](https://github.com/EPM-RD-NETLAB/Coding-guidlines)
 
 ## Задачи
-- Cоздать многофайловую сборку. Назначить сборке строе имя. Поместить сборку в GAC. Проанализировать полученную сборку с помощью ILDASM, JetBrains dotPeek.[Приметры в помощь](https://drive.google.com/drive/u/0/folders/0B7WmjuqYed3AUkU5ZE1ZVnVYMkE)
+- Cоздать многофайловую сборку. Назначить сборке строе имя. Поместить сборку в GAC. Проанализировать полученную сборку с помощью ILDASM, JetBrains dotPeek.[Примеры в помощь](https://drive.google.com/drive/u/0/folders/0B7WmjuqYed3AUkU5ZE1ZVnVYMkE)
 - Реализовать методы быстрой сортировки и сортировки слиянием для целочисленного массива (тип проекта Class Library). Протестировать работу методов в консольном приложении.
