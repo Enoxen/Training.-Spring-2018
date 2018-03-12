@@ -4,7 +4,7 @@
 - [Что такое CLR – Часть 2](http://kavayii.blogspot.com.by/2010/08/clr-2.html)
 - [Introducing C# and the .NET Framework](https://github.com/AnzhelikaKravchuk/.NET-Training/wiki/Introducing-C%23-and-the-.NET-Framework)
 
-## Читать
+## 
 - Ознакомиться с [проектом]()
 - Ознакомиться с [Coding Standards for .NET](https://github.com/EPM-RD-NETLAB/Coding-guidlines)
 
