@@ -5,7 +5,7 @@
 - [Introducing C# and the .NET Framework](https://github.com/AnzhelikaKravchuk/.NET-Training/wiki/Introducing-C%23-and-the-.NET-Framework)
 
 ## 
-- Ознакомиться с [проектом](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%201/DemoSolution.zip)
+- Ознакомиться с DemoSolution[проектом](https://drive.google.com/drive/u/0/folders/0B7WmjuqYed3AWXFzc1Mtcnk3d1k)
 - Ознакомиться с [Coding Standards for .NET](https://github.com/EPM-RD-NETLAB/Coding-guidlines)
 
 ## Презентация 
