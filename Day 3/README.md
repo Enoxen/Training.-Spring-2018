@@ -7,7 +7,6 @@
 
 ## Материалы (презентация)
 - [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
-- [C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing)
 - [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)
 - [LINQPad примеры](https://drive.google.com/drive/u/0/folders/10zqkW8GcxFdp8YKxi6LamVV3oRXQAqo9)
 
