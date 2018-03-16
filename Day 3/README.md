@@ -5,12 +5,13 @@
 - [Что нужно знать про арифметику с плавающей запятой](https://habrahabr.ru/post/112953/)
 - [Get started with unit testing](https://docs.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing) или [Приступая к работе с модульным тестированием](https://docs.microsoft.com/ru-ru/visualstudio/test/getting-started-with-unit-testing)
 
-## Материалы
+## Материалы (презентация)
 - [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
 - [C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing)
+- [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)
 
-## Задачи
+## Задачи (deadline 18.03.2018, 18.00)
 
-- [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23) (deadline 18.03.2018, 18.00)
-- [#5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23) (deadline 18.03.2018, 18.00)
-- [#6](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23) (deadline 15.03.2018, 21.00)
+- [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23) 
+- не забыть про задачи [здесь](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%202/README.md)!
+- выполнить сравнительный анализ скорости вычислений реализация алгоритмов с использованием строк и операции целочисленного деления для задачи [#6](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
