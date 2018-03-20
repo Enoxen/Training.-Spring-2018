@@ -2,6 +2,6 @@
 - []() Chapter :
 
 ## Материалы (презентация)
-- [LINQPad примеры](https://drive.google.com/drive/u/0/folders/10zqkW8GcxFdp8YKxi6LamVV3oRXQAqo9)
+- [LINQPad примеры](https://drive.google.com/drive/u/0/folders/1Q4QQVPfk7HTa2WsJ9w-Q1aj-iSV5v0RX)
 
 ## Задачи (deadline )
