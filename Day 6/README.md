@@ -9,7 +9,8 @@
 - [C#: Внутреннее строение инициализаторов массивов](http://habrahabr.ru/post/247047/)
 
 ## Материалы (презентация)
-- [Basic Coding in C#]()
+- [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)
+- [Creating types in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23)
 - [LINQPad примеры](https://drive.google.com/drive/u/0/folders/1_uY1tmKK3WlFkB5PsyqjJsWP6-DYhvoY)
 
 ## Задачи (deadline )
