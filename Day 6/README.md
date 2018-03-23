@@ -27,20 +27,19 @@
   - [TestCase(-0.0, ExpectedResult = "1000000000000000000000000000000000000000000000000000000000000000")]
   - [TestCase(0.0, ExpectedResult = "0000000000000000000000000000000000000000000000000000000000000000")]
 и т.д.  
-К решению
-
+К решению   
 public static class StringExtention
-{
-	public static int ToDecimalConverter(this string source, Notation notation)
-	{
-		throw new NotImplementedException();
+{   
+	public static int ToDecimalConverter(this string source, Notation notation)   
+	{   
+		throw new NotImplementedException();   
+	}   
+   
+	private class Notation   
+	{   
+              //TODO
 	}
-
-	private class Notation
-	{
-
-	}
-}
+}   
 
 - (**deadline - 18.00 25.03.2018**) Реализовать метод расширения получения из строкового представления целого положительного четырехбайтового числа, записанного в p-ичной системе счисления (2<=p<=16), его десятичного значения (**при реализации готовые классы-конверторы не использовать!**). Разработать модульные тесты. (NUnit фреймворк). Примерные тесткейсы.
     - "0110111101100001100001010111111" для основания 2 -> 934331071
