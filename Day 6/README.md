@@ -32,13 +32,13 @@ public static class StringExtention
 {   
 	public static int ToDecimalConverter(this string source, Notation notation)   
 	{   
-		throw new NotImplementedException();   
+		throw new NotImplementedException();
 	}   
-   
-	private class Notation   
+	
+	private class Notation    
 	{   
-              //TODO
-	}
+		//TODO    
+	}     
 }   
 
 - (**deadline - 18.00 25.03.2018**) Реализовать метод расширения получения из строкового представления целого положительного четырехбайтового числа, записанного в p-ичной системе счисления (2<=p<=16), его десятичного значения (**при реализации готовые классы-конверторы не использовать!**). Разработать модульные тесты. (NUnit фреймворк). Примерные тесткейсы.
