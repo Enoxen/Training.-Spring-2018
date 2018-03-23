@@ -41,27 +41,7 @@
     - "764241" для основания 20 -> ArgumentException  
     - "10" для основания 5 -> 5   
   и т.д. 
-К решению 
-
-public static class NumberRepresentationConverter
-{
-	public static string DoubleToBinaryString(this double number)
-	{
-		//TODO
-		throw new NotImplementedException();
-	}
-	//J.Richter + https://habrahabr.ru/post/114953/
-	[StructLayout(LayoutKind.Explicit)]
-	private struct DoubleToLongStruct
-	{
-		[FieldOffset(0)]
-		private readonly long long64bits;
-		[FieldOffset(0)]
-		private double double64bits;
-		//TODO
-	}
-}
-
+![К решению](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Pictures/ToIEEE754.png) 
 - Разработать неизменяемый класс Polynomial (полином) для работы с многочленами степени  от одной переменной вещественного типа (в качестве внутренней структуры для хранения коэффициентов использовать sz-массив). Для разработанного класса переопределить виртуальные методы класса Object; перегрузить операции, допустимые для работы с многочленами (исключая деление многочлена на многочлен), включая "==" и "!=". Разработать unit-тесты (NUnit фреймворк).
 - Реализовать метод "пузырьковой" сортировки непрямоугольного ("jagged" array) целочисленного массива (не использовать методы класса System.Array!) таким образом, чтобы была возможность упорядочить строки матрицы:
    - в порядке возрастания(убывания) сумм элементов строк матрицы;
