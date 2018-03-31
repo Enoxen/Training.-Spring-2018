@@ -7,3 +7,4 @@
 
 ## Задачи (deadline 01.04.2018, 22.00)
 - [Здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+- [#6](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/tree/master/Day%202)
