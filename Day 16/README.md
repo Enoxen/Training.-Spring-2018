@@ -1,6 +1,7 @@
 ## Читать
-- [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
-- [Serialization](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M15.%20Serialization)
+- [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
+   - *Chapter 10.* IChapter 10. LINQ to XML. (http://www.albahari.com/nutshell/ch10.aspx)
+   - *Chapter 2.* C# Language Basics [Code Listings](http://www.albahari.com/nutshell/ch02.aspx)
 
 ## Материалы (презентация)
 - [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
@@ -16,7 +17,6 @@
 - Способы валидации XML документа.
 - .NET API интерфейсы для работы с  XML – данными.
 - Различные механизмы сериализации
-
 
 ## Задачи (deadline )
   В текстовом файле построчно хранится информация об URL-адресах, представленных в виде <scheme>://<host>/<URL‐path>?<parameters>, где сегмент parameters - это набор пар вида key=value, при этом сегменты URL‐path и parameters  или сегмент parameters могут отсутствовать. 
