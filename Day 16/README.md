@@ -2,7 +2,7 @@
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
    - *Chapter 10.* [LINQ to XML](http://www.albahari.com/nutshell/ch10.aspx)
    - *Chapter 11.* [Other XML Technologies](http://www.albahari.com/nutshell/ch11.aspx)
-   - *Chapter 17.* [Serialization](http://www.albahari.com/nutshell/ch17.aspx)
+   - *Chapter 17.* Serialization. [Samples](http://www.albahari.com/nutshell/ch15.aspx)
 
 ## Материалы (презентация)
 - [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
