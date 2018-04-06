@@ -1,5 +1,5 @@
 # Training.-Spring-2018
-Репозиторий тренинга "Developing ASP.NET MVC web applications" (весна 2018)
+Репозиторий внешнего тренинга "Developing ASP.NET MVC web applications" (весна 2018)
 
 ### Место проведения занятий - Купревича 1-5,  комната 224.
 ### Дни и время проведения занятий
