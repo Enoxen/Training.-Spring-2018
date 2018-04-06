@@ -26,3 +26,4 @@
   - https://habrahabr.ru/company/it-grad/blog/341486/      
 
 результирующим является XML-документ вида (можно использовать любую XML технологию без ограничений).
+![](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Pictures/XML.Task.png)
