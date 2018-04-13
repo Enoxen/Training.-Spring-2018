@@ -22,7 +22,7 @@
       - изменение логики расчета бонусных баллов;
       - изменении логики генерации номера счета.
   
-    Для организации классов и интерфейсов использовать “The Stairway pattern” (“заготовка” в архиве  AccountSystemDemo.7z). 
+    Для организации классов и интерфейсов использовать “The Stairway pattern” (“заготовка” в архиве [AccountSystemDemo.7z](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%2017/AccountSystemDemo.7z)). 
   
     Для разрешения зависимостей использовать Ninject- фреймворк.
 
