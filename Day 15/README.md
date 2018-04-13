@@ -1,7 +1,7 @@
 ## Читать (Обязательно!) - любой из перечисленных ниже источников
 - Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012. Chapter 5. Collections.
 - C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015. Chapter 7. Collections.
-  - *Основное внимание уделить следующим обощенным строготипизированным коллекциям - List, Queue, Stack, Sets, Dictionaries.*
+  - *Основное внимание уделить следующим обобщенным строго типизированным коллекциям - List, Queue, Stack, Sets, Dictionaries.*
   - *Обязательно ознакомиться с **Plugging in Equality and Order** (C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015. Chapter 7. Collections)*
 
 ## Материалы (презентация)
