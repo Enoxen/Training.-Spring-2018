@@ -3,7 +3,7 @@
 - [Примеры использования Moq](https://habr.com/post/150859/)
 - [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove.  Manning Publications Co. 2013.](https://www.manning.com/books/the-art-of-unit-testing-second-edition)
    - *Chapter 3.* [Using stubs to break dependencies](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-3/)
-   - *Chapter 4.* [Interaction testing using mock objects](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-4/)
+   - *Chapter 4.* [Interaction testing using mock objects](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-4/1)
 
 
 ## Материалы (презентация)
