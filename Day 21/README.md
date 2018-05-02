@@ -1,10 +1,15 @@
 ## Читать
-- [Object Oriented Design Principles](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
+- [Adaptive Code via C#: Agile coding with design patterns and SOLID principles](https://drive.google.com/drive/u/0/folders/1_0f6ZJrDmHJ0SnPBrzYDGv3eWhqaiYqQ)
+   - CHAPTER 2. Dependencies and layering
+- [Искусство автономного тестирования с примерами на C#](https://drive.google.com/drive/u/0/folders/1oszrYmqYK1Yx6F5biMa8WnafJwaGhqwd)
+   - Глава 4. Тестирование взаимодействий с помощью подставных объектов 
+- [Moq. Quickstart](https://github.com/Moq/moq4/wiki/Quickstart)
 
 ## Материалы (презентация)
-- []()
+- [Здесь](https://drive.google.com/drive/u/0/folders/1oszrYmqYK1Yx6F5biMa8WnafJwaGhqwd)
+- [Пример ProjectArchitectureDemo.7z](https://drive.google.com/drive/u/0/folders/1oszrYmqYK1Yx6F5biMa8WnafJwaGhqwd)
 
-## Задачи (deadline - 29.04.2018, 24.00)
+## Задачи (deadline - 05.05.2018, 24.00)
 1. Разработать систему типов для описания работы с банковским счетом. Состояние счета определяется его номером, данными о владельце счета (имя, фамилия, e-mail), суммой на счете и некоторыми бонусными баллами, которые увеличиваются/уменьшаются каждый раз при пополнении счета/списании со счета на величины различные для пополнения и списания и рассчитываемые в зависимости от некоторых значений величин «стоимости» баланса и «стоимости» пополнения. Величины «стоимости» баланса и «стоимости» пополнения являются целочисленными значениями и зависят от типа счета, который может быть, например,  Base, Gold, Platinum. Для работы со счетом реализовать следующие возможности: 
    - выполнить пополнение на счет;
    - выполнить списание со счета; 
@@ -25,4 +30,4 @@
   
     Для разрешения зависимостей использовать Ninject- фреймворк.
 
-    Протестировать слой Bll (NUnit и Moq фреймворки).
+    **Протестировать слой Bll (NUnit и Moq фреймворки).**
