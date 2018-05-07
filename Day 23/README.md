@@ -1,28 +1,9 @@
 ## Читать
-- [Object Oriented Design Principles](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
+- [Информация здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
 
 ## Материалы (презентация)
-- []()
+- [M12. Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
+- [Google Disk](https://drive.google.com/drive/u/0/folders/1ZsbnBMLUx8lg1eUPAnNhRZZpR-F-RrDa)
 
-## Задачи (deadline - 29.04.2018, 24.00)
-1. Разработать систему типов для описания работы с банковским счетом. Состояние счета определяется его номером, данными о владельце счета (имя, фамилия, e-mail), суммой на счете и некоторыми бонусными баллами, которые увеличиваются/уменьшаются каждый раз при пополнении счета/списании со счета на величины различные для пополнения и списания и рассчитываемые в зависимости от некоторых значений величин «стоимости» баланса и «стоимости» пополнения. Величины «стоимости» баланса и «стоимости» пополнения являются целочисленными значениями и зависят от типа счета, который может быть, например,  Base, Gold, Platinum. Для работы со счетом реализовать следующие возможности: 
-   - выполнить пополнение на счет;
-   - выполнить списание со счета; 
-   - создать новый счет; 
-   - закрыть счет.  
-    
-    Для хранения информации о счетах использовать fake-имплементацию репозитория (хранилища) в виде класса-обертки для коллекции List<Account>.
- 
-    Работу классов продемонстрировать на примере консольного приложения. 
-
-    При проектировании типов учитывать следующие возможности расширения/изменения функциональности
-      - добавление новых видов счетов;
-      - изменение/добавление источников хранения информации о счетах;
-      - изменение логики расчета бонусных баллов;
-      - изменении логики генерации номера счета.
-  
-    Для организации классов и интерфейсов использовать “The Stairway pattern” (“заготовка” в архиве [AccountSystemDemo.7z](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%2017/AccountSystemDemo.7z)). 
-  
-    Для разрешения зависимостей использовать Ninject- фреймворк.
-
-    Протестировать слой Bll (NUnit и Moq фреймворки).
+## Задачи
+- [Условие здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
